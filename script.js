@@ -17,7 +17,7 @@ const projects = [
     title: "Mashup - Ere and Hanggang Kailan",
     type: "Mashup",
     image: "images/Mashuppic.png",
-    audio: "audio/project3.mp3",
+    audio: "audio/Mashupaud.mp3",
     tags: ["Juan Karlos", "2023", "Orange & Lemons", "2005"]
   },
   {
